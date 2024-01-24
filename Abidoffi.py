@@ -201,15 +201,15 @@ def banner():
       if "win" in sys.platform:os.system("cls")
       else:os.system("clear")
       print(f'''{m}
-      Crack Facebook gacor
-      Manusia hanyalah alat🤠
+      MAJU TAK GENTAR 
+      MUNDUR TAK GANJEL
 　　 　
-　　                     　Lucas official 
+　　                     　lucas version
 {puti}Update   :{biru} 01.12.2024
 {puti}Script   :{biru} Crack 
-{puti}Maker    :{biru} ABID PERUDAL FACEBOOK
+{puti}Maker    :{biru} ABID
 {puti}Status   :{biru} Aktif 
-{puti}Version  :{biru} 1.1.2  premium                                                                                                       ''')
+{puti}Version  :{biru} 1.1.2  {hijo}premium                                                                                                       ''')
 #kukis
 def login():
 	os.system('clear')
@@ -250,7 +250,7 @@ def menu():
 		login()
 	os.system('clear')
 	banner()
-	prints(panel(f"""[white][[cyan]1[white]] Crack Publik [[green]  ON[white]] \n[[cyan]2[white]] Crack Massal [white][[green] ON [white]] \n[[cyan]3[white]] Dalam perbaikan [[red] OF [white]]\n[[cyan]4[white]] Dalam perbaikan [white][[red] OF [white]]\n[[cyan]5[white]] logout [white][ [red]hapus cookies [white]] [ [green]ON [white]] """,width=43,title=f"[[green] MENU VERSI LUCAS [/]]",style=f"bold white"))
+	prints(panel(f"""[white][[cyan]1[white]] Crack Publik [[green] ON [white]] \n[[cyan]2[white]] Crack Massal [white][[green] ON [white]] \n[[cyan]3[white]] cek hasil ok [[green] ON [white]]\n[[cyan]4[white]] Hasil cp [white][[green] ON [white]]\n[[cyan]5[white]] logout [white][ [red]hapus cookies [white]] [ [green]ON [white]] """,width=43,title=f"[[green] MENU VERSI LUCAS [/]]",style=f"bold white"))
 	print(f"{kun}╭────────────────────────────────────────────{puti}")
 	CYXIEON_GANTENG = input(f'{kun}└──[{puti} Input menu : ')
 	if CYXIEON_GANTENG in ['01','1']:
