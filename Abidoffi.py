@@ -418,7 +418,6 @@ def banner():
 　　                 　lucas version
 {puti}Update   :{biru} 
 {puti}Script   :{biru} Crack 
-
 {puti}Maker    :{biru} ABID
 {puti}Status   :{biru} Aktif 
 
