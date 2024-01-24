@@ -272,7 +272,7 @@ ung = '\033[1;35m'
 
 puti = '\033[1;37m'
 
-bira = '\033[1;36m'
+cya= '\033[1;36m'
 
 xxx = '\33[m'
 
@@ -376,8 +376,6 @@ ung = '\x1b[1;95m' # WARNA-UNGU
 
 biru = '\x1b[1;94m' # WARNA-BIRU
 
-kon = \x1b[38;5;1m#WANRA-APA
-
 ses=requests.Session()
 
 #----------[ HAPUS ]----------#		
@@ -404,14 +402,14 @@ def banner():
 
       else:os.system("clear")
 
-      print(f'''{m}
+      print(f'''{M}
 
       MAJU TAK GENTAR 
       MUNDUR TAK GANJEL
 　　 　
 
-　　                　lucas version
-{kon}Update   :{biru} 
+　　                 　lucas version
+{puti}Update   :{biru} 
 {puti}Script   :{biru} Crack 
 
 {puti}Maker    :{biru} ABID
@@ -499,7 +497,7 @@ def menu():
 
 	banner()
 
-	prints(panel(f"""[white][[cyan]1[white]] Crack Publik [[green] ON [white]] \n[[cyan]2[white]] Crack Massal [white][[green] ON [white]] \n[[cyan]3[white]] cek hasil ok [[green] ON [white]]\n[[cyan]4[white]] Hasil cp [white][[green] ON [white]]\n[[cyan]5[white]] logout [white][ [red]hapus cookies [white]] [ [green]ON [white]] """,width=43,title=f"[[green] MENU VERSI LUCAS [/]]",style=f"bold white"))
+	prints(panel(f"""[white][[cyan]1[white]] Crack Publik [[green] ON [white]] \n[[cyan]2[white]] Crack Massal [white][[green] ON [white]] \n[[cyan]3[white]] cek hasil ok [[green] ON [white]]\n[[cyan]4[white]] Hasil cp [white][[green] ON [white]]\n[[cyan]5[white]] logout [white][ [red]hapus cookies [white]] [ [green]ON [white]] """,width=43,title=f"[[green] MENU HIDANGAN [/]]",style=f"bold white"))
 
 	print(f"{kun}╭────────────────────────────────────────────{puti}")
 
